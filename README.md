@@ -16,5 +16,5 @@ One of my significant projects is focused on the **monitoring of elderly individ
 I'm always open to new connections and collaborations! If you have any questions, suggestions, or just want to chat about interesting projects, feel free to get in touch.
 
 - 💼 **LinkedIn**: [Daniil Nikiforov](https://www.linkedin.com/in/daniilnikiforov/)
-- 
+  
 Thanks for visiting my profile! I hope you find my projects and contributions interesting. Let's connect and explore new opportunities together! 😊
