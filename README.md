@@ -1,20 +1,20 @@
 # Welcome to My GitHub Profile 👋
 
-Hello there! I'm Daniil Nikiforov, a computer engineering student based in Spain. Currently, my focus lies in the realm of computer science, with a particular interest in data processing.
+Hello there! I'm **Daniil Nikiforov**, a passionate computer engineer based in Spain. My interests lie primarily in web and mobile application development, as well as data science, where I enjoy analyzing data to create specific patterns.
 
 ## About Me
-- 🎓 Computer Engineering student at Universitat Rovira i Virgili.
-- 🌍 Based in Spain.
+- 🎓 **Graduated in Computer Engineering** from Universitat Rovira i Virgili.
+- 🌍 Based in Spain, I am eager to explore new opportunities in technology and innovation.
 
 ## Interests
-My primary area of interest revolves around data processing. I am fascinated by the power of data to unveil patterns, inform decisions, and transform the way we interact with information. I am constantly seeking new opportunities to learn and apply my knowledge in this field.
+I have a strong passion for **web and mobile application development** and **data science**. I believe in the power of technology to transform lives and businesses, and I'm constantly seeking to expand my skill set and knowledge in these areas. I am also open to engaging in projects as a hobby.
 
 ## Final Year Project
-At the moment, I am diligently working on my final year project. This project represents the culmination of my studies and academic efforts, addressing specific challenges related to TFG. I am excited to share more details as the project progresses.
+One of my significant projects is focused on the **monitoring of elderly individuals in their homes**. This project aims to enhance the safety and well-being of seniors through technology. You can check out the project details here: [Monitoring Project](https://github.com/Dikiforov/TFG).
 
 ## Contact
 I'm always open to new connections and collaborations! If you have any questions, suggestions, or just want to chat about interesting projects, feel free to get in touch.
 
-- 💼 LinkedIn: https://www.linkedin.com/in/daniilnikiforov/
-
-Thanks for visiting my profile. I hope you find my projects and contributions interesting! 😊
+- 💼 **LinkedIn**: [Daniil Nikiforov](https://www.linkedin.com/in/daniilnikiforov/)
+- 
+Thanks for visiting my profile! I hope you find my projects and contributions interesting. Let's connect and explore new opportunities together! 😊
